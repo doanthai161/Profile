@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>Daniel</h2>
+  <h2>DanielDoan</h2>
 
   <a href="https://github.com/doanthai161">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=535&lines=Full-Stack+Web+App+%26+Blockchain+Developer;Focused+on+automation%2C+AI%2C+and+optimization;Exploring+AI-driven+automation+and+databases;Always+learning%2C+building%2C+and+collaborating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=535&lines=Backend+Developer;Focused+on+automation%2C+AI%2C+and+optimization;Exploring+AI-driven+automation+and+databases;Always+learning%2C+building%2C+and+collaborating" alt="Typing SVG" />
   </a>
 
   <br />
